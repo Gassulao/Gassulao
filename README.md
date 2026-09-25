@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👋 Hola, soy Christian (Gassu)
 
+🛡️ SOC Analyst en transición hacia Cloud Security Engineer
+🔎 Apasionado por OSINT, Cyber Threat Intelligence e investigación digital
+☁️ Construyendo proyectos reales en Azure/AWS: automatización de respuesta a incidentes, IaC seguro con Terraform, hunting con Wazuh
+📜 BTL1 · EITCA · CompTIA Security+ · en camino hacia SC-200, SC-500, SC-100, AWS
+
+📌 Aquí no hay proyectos generados por IA sin entender — cada línea de código la reescribo de memoria hasta poder explicarla en una entrevista.
 <!--
 **Gassulao/Gassulao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
